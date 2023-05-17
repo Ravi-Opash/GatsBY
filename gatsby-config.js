@@ -16,6 +16,7 @@ module.exports = {
         accessToken: `zvkVa7grZz3HCjbbNU64EKj0MJmHMTqmngcBrTzLSzU`,
       },
     },
+    'gatsby-plugin-netlify',
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
