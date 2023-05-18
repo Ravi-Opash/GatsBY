@@ -29,6 +29,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "devDependencies": {
-    "gatsby-plugin-netlify": "^5.1.0"
+    "gatsby-plugin-netlify": "^5.1.0",
+    "gh-pages": "^5.0.0"
   }
 }
