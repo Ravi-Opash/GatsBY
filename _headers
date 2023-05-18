@@ -1,0 +1,21 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.01c1a43281e5d39ac88d.css
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-b42af6911c29f865523a.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-f9d9f3fd4501a4f7a2d3.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-e1920fffb1cf79c01553.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-fd4c9c481df83aac3c1a.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
